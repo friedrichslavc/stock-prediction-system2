@@ -516,7 +516,7 @@ module.exports = {
 如果遇到无法解决的问题，请通过以下方式联系技术支持:
 
 - 电子邮件: [support@stockprediction.com](mailto:support@stockprediction.com)
-- 问题追踪: [https://github.com/yourusername/stock-prediction-system/issues](https://github.com/yourusername/stock-prediction-system/issues)
+- 问题追踪: [https://github.com/friedrichslavc/stock-prediction-system2/issues](https://github.com/friedrichslavc/stock-prediction-system2/issues)
 - 在线聊天: 工作日9:00-18:00提供在线支持
 
 
