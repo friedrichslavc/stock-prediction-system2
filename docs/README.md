@@ -71,7 +71,7 @@
 
 
 ```shellscript
-git clone https://github.com/yourusername/stock-prediction-system.git
+git clone https://github.com/friedrichslavc/stock-prediction-system2.git
 cd stock-prediction-system
 ```
 
